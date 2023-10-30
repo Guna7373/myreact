@@ -1,25 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
-
+// import ShapeExample from './Car';
+// import Demo from './Demo';
+// import './Demo.css';
+// import UncontrolledExample from './Demo';
+// import Fun from './Car';
+//  import Bar from './Bar';
+// import MyForm from './MyForm';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+{/* <Demo/> */}
+{/* <UncontrolledExample/> */}
+{/* <BreadcrumbExample/> */}
+{/* <Car/> */}
+{/* <ShapeExample/> */}
+{/* <Fun /> */}
+
+{/* <Bar/> */}
+{/* <MyForm/> */}
     </div>
   );
 }
-
 export default App;

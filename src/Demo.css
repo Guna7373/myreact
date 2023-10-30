@@ -1,0 +1,54 @@
+/* .some1{
+    width:500px;
+    height:300px;
+  }
+  .container{
+    margin-top: 20px;
+  }
+  .btn{
+    background-color: red;
+    
+  }
+  .demo1{
+    margin-left: 40%;
+    margin-top: 20px;
+    color:black;
+    background-color: bisque;
+  } */
+   /* .num1{
+    margin-top: 30px;
+  }  */
+  /* .name{
+    background-color:antiquewhite;
+
+  }  */
+  .Bar{
+    margin-top: 30px;
+    margin-left: 14%;
+    border-radius: 20px;
+    width: 70%;
+    height:600px;
+    background-color:black;
+    position: absolute;
+  }
+  .Form{
+    margin-left: 14%;
+    background-color:aquamarine;
+    width:70%;
+    height:420px;
+    border-radius: 20px;
+    position: relative;
+  }
+  .f{
+    margin-top: 85px;
+    margin-left: 20px;
+    position: relative;
+    color:goldenrod;
+  }
+.mail{
+  margin-top: 100px;
+}
+.pass,.num,.sub{
+  margin-top: 20px;
+  border-radius: 10px;
+}
