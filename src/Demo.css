@@ -1,4 +1,4 @@
-/* .some1{
+/* /* .some1{
     width:500px;
     height:300px;
   }
@@ -22,33 +22,65 @@
     background-color:antiquewhite;
 
   }  */
-  .Bar{
+  /* .container-fluid{
     margin-top: 30px;
-    margin-left: 14%;
-    border-radius: 20px;
-    width: 70%;
+   border-radius: 30px;
+    width: 100%;
     height:600px;
     background-color:black;
     position: absolute;
   }
   .Form{
-    margin-left: 14%;
+    margin-left: 30%;
     background-color:aquamarine;
-    width:70%;
+    width:40%;
     height:420px;
-    border-radius: 20px;
+    border-radius: 350px;
     position: relative;
   }
   .f{
-    margin-top: 85px;
+    margin-top: 65px;
     margin-left: 20px;
     position: relative;
-    color:goldenrod;
+    color:brown;
+    font-family:fantasy;
   }
 .mail{
-  margin-top: 100px;
+  color:goldenrod;
+  margin-top: 80px;
+  margin-left: 10px;
+  font-size: 20px;
+  font-family:fantasy;
+ 
 }
 .pass,.num,.sub{
-  margin-top: 20px;
+  font-family:fantasy;
+  color:goldenrod;
+  font-size: 20px;
+  margin-top: 10px;
   border-radius: 10px;
+  margin-left: 10px;
+}
+.sub{
+background-color: black;
+width:100px;
+color:red;
+}
+.M{
+  border-radius: 10px;
+  margin-left: 20px;
+}
+.M::placeholder{
+  color:red;
+  font-family:fantasy;
+}
+.error{
+  font-family:fantasy;
+}  */
+.f2{
+  margin-top:25px;
+}
+.f1{
+  margin-top: 50px;
+  margin-left: 20px;
 }

@@ -1,23 +1,15 @@
 import './App.css';
-// import ShapeExample from './Car';
-// import Demo from './Demo';
-// import './Demo.css';
-// import UncontrolledExample from './Demo';
-// import Fun from './Car';
-//  import Bar from './Bar';
-// import MyForm from './MyForm';
+import Basic from './Basic';
+import './Demo.css';
+// import Red from './Guna';
+// import Counter from './Todo-list';
+
 function App() {
   return (
     <div className="App">
-{/* <Demo/> */}
-{/* <UncontrolledExample/> */}
-{/* <BreadcrumbExample/> */}
-{/* <Car/> */}
-{/* <ShapeExample/> */}
-{/* <Fun /> */}
-
-{/* <Bar/> */}
-{/* <MyForm/> */}
+<Basic/>
+      {/* <Red/> */}
+      {/* <Counter/> */}
     </div>
   );
 }
