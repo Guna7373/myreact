@@ -9,7 +9,7 @@ function Reducer(state,action)
         case "reset":
             return{count:0};
         default:
-            throw Error("invalid action");a
+            throw Error("invalid action");
         }      
 }
  function Red() {

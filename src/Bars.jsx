@@ -62,7 +62,7 @@ const FormErrorMsg = () => {
   };
   return (
     <div className="container-fluid" container>
-      <h1 className='f'>Registration Form</h1>
+      <h1 className='f'> useState Registration Form</h1>
       <form action="" className="Form" onSubmit={(e) => { e.preventDefault(); validate(); }}>
         <label className="mail">Email:</label>
         <input type="text" className='M' name="email" value={inputs.email} onChange={handleChange} placeholder="  Email" />

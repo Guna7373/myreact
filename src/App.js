@@ -1,15 +1,12 @@
 import './App.css';
-import Basic from './Basic';
 import './Demo.css';
-// import Red from './Guna';
-// import Counter from './Todo-list';
+import Sap from './Router';
+
 
 function App() {
   return (
     <div className="App">
-<Basic/>
-      {/* <Red/> */}
-      {/* <Counter/> */}
+<Sap/>
     </div>
   );
 }
